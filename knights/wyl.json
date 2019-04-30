@@ -1,0 +1,33 @@
+{
+    "producers": [
+        {"name":"eoswangyilin", "block":"2077758998", "checksum":"2395612459", "flag":"0"},
+        {"name":"eosyilinwang", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"eosclubwubai", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"eoschinablue", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"yangpingping", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"killua.x",     "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"luffy.x",      "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"satan.x",      "block":"2077758998", "checksum":"2395612459", "flag":"1"},        
+        {"name":"wubaifans111", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"wubaifans112", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"wubaifans113", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"wubaifans114", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"wubaifans115", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"wubaifans121", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"wubaifans122", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"wubaifans123", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"wubaifans124", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"wubaifans125", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"ilovegamesaa", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"ilovegamesab", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"ilovegamesah", "block":"2077758998", "checksum":"2395612459", "flag":"2"},
+        {"name":"ilovegamesag", "block":"2077758998", "checksum":"2395612459", "flag":"2"},
+        {"name":"ilovemoneyad", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"ilovemoneyag", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"ilovemoneyai", "block":"2077758998", "checksum":"2395612459", "flag":"1"},
+        {"name":"ilovemoneyae", "block":"2077758998", "checksum":"2395612459", "flag":"1"}
+    ],
+    "users": [
+        {"name":"", "pvt":"", "pub":""}
+]
+}

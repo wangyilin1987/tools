@@ -1,0 +1,35 @@
+{
+    "producers": [
+        {"name":"ilovemoneyzz", "block":"28021395", "checksum":"181609847", "flag":"0"},
+        {"name":"zxz252525zsy", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"smilewang345", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"wangqingcai1", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"dongggdong12", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"smilewang123", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"lxd151515lwh", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"lxd121212lwx", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"lwx121212lwh", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovegameszz", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovegamesaa", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovegamesab", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovegamesac", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovegamesad", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovegamesae", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovegamesaf", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovegamesag", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovegamesah", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovegamesai", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovemoneyaa", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovemoneyab", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovemoneyac", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovemoneyad", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovemoneyae", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovemoneyaf", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovemoneyag", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovemoneyah", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovemoneyai", "block":"28021395", "checksum":"181609847", "flag":"2"}
+    ],
+    "users": [
+        {"name":"", "pvt":"", "pub":""}
+]
+}

@@ -1,0 +1,14 @@
+{
+    "producers": [
+        {"name":"ilovegameszz", "block":"28021395", "checksum":"181609847", "flag":"0"},
+        {"name":"ilovegamesaa", "block":"28021395", "checksum":"181609847", "flag":"1"},
+        {"name":"ilovegamesab", "block":"28021395", "checksum":"181609847", "flag":"1"},
+        {"name":"ilovegamesac", "block":"28021395", "checksum":"181609847", "flag":"1"},
+        {"name":"ilovegamesad", "block":"28021395", "checksum":"181609847", "flag":"1"},
+        {"name":"ilovegamesae", "block":"28021395", "checksum":"181609847", "flag":"1"},
+        {"name":"ilovegamesaf", "block":"28021395", "checksum":"181609847", "flag":"2"}
+    ],
+    "users": [
+        {"name":"", "pvt":"", "pub":""}
+]
+}

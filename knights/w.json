@@ -1,0 +1,17 @@
+{
+    "producers": [
+        {"name":"ilovemoneyzz", "block":"28021395", "checksum":"181609847", "flag":"0"},
+        {"name":"ilovemoneyaa", "block":"28021395", "checksum":"181609847", "flag":"1"},
+        {"name":"ilovemoneyab", "block":"28021395", "checksum":"181609847", "flag":"1"},
+        {"name":"ilovemoneyac", "block":"28021395", "checksum":"181609847", "flag":"1"},
+        {"name":"ilovemoneyad", "block":"28021395", "checksum":"181609847", "flag":"1"},
+        {"name":"ilovemoneyae", "block":"28021395", "checksum":"181609847", "flag":"1"},
+        {"name":"ilovemoneyaf", "block":"28021395", "checksum":"181609847", "flag":"1"},
+        {"name":"ilovemoneyag", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovemoneyah", "block":"28021395", "checksum":"181609847", "flag":"2"},
+        {"name":"ilovemoneyai", "block":"28021395", "checksum":"181609847", "flag":"2"}
+    ],
+    "users": [
+        {"name":"", "pvt":"", "pub":""}
+]
+}
